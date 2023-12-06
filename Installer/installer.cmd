@@ -9,5 +9,9 @@ FOR /F "tokens=*" %%i IN (%startpath%\programs.txt) DO (
     echo Installing %%i...
     winget install "%%i"
 )
+FOR /F "tokens=*" %%i In (%startpath%\pip.txt) DO (
+    echo Installing %%i...
+    pip install %%i
+)
 echo Returning to previous directory...
 cd %startpath%

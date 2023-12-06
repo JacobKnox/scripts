@@ -1,0 +1,6 @@
+numpy
+matplotlib
+tensorflow
+imageio
+remotezip
+Pillow
