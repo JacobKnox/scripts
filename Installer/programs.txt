@@ -1,0 +1,16 @@
+7-Zip
+Discord
+Git.Git
+GitHub Desktop
+Google Chrome
+Facebook.Messenger
+SlackTechnologies.Slack
+RProject.R
+Valve.Steam
+TablePlus
+Zoom.Zoom
+Python.Python.3.10
+Oracle.MySQL
+Oracle.JDK.18
+Visual Studio
+Microsoft.VisualStudioCode
